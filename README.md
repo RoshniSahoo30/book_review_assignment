@@ -6,6 +6,12 @@ This is a full-stack **Book Review Application** built as part of an internship 
 
 ---
 
+## Deployed URL: 
+
+https://book-review-assignment-seven.vercel.app/
+
+---
+
 ##  Features
 
 -  User authentication using JWT
@@ -118,5 +124,4 @@ PORT=8000
 *  Form validations & error boundaries
 
 ---
-
 
